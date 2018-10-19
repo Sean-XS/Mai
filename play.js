@@ -3,7 +3,7 @@ const { Client, Util } = require('discord.js');
 //const { TOKEN, PREFIX, GOOGLE_API_KEY } = require('./config');
 
 // Shiina bot Token ID
-const TOKEN = "NDk0NjcyMjUzNjcwMTI5NjY0.Do_02A.IQU719tC1qodGVwPUNHmCU31MsE";
+const TOKEN = "";
 // Bot prefix
 const PREFIX = "t";
 // Google API key 
@@ -19,7 +19,7 @@ const youtube = new YouTube(GOOGLE_API_KEY);
 
 const queue = new Map();
 
-client.login("NDk0NjcyMjUzNjcwMTI5NjY0.Do_02A.IQU719tC1qodGVwPUNHmCU31MsE");
+client.login("");
 
 client.on('warn', console.warn);
 
