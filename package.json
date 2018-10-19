@@ -1,0 +1,15 @@
+{
+    "name": "shiinabot",
+    "version": "1.0.0",
+    "description": "Shiina Bot",
+    "main": "index.js",
+    "dependencies": {
+        "cheerio": "latest",
+        "discord.js": "latest",
+        "express": "latest",
+        "ffmpeg": "0.0.4",
+        "request": "latest",
+        "simple-youtube-api": "^5.0.2",
+        "ytdl-core": "^0.26.1"
+    }
+}
