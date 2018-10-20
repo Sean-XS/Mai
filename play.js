@@ -7,7 +7,7 @@ const TOKEN = "";
 // Bot prefix
 const PREFIX = "t";
 // Google API key 
-const GOOGLE_API_KEY = "AIzaSyAYaWbDD3LdXUKAkcrC3ZCA20h78csrlH8";
+const GOOGLE_API_KEY = "";
 
 /* Regular code beneath, unchanged */
 const YouTube = require('simple-youtube-api');
